@@ -1,8 +1,8 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://alexisayenko.github.io',
-  base: '/fashionista',
+  site: 'https://fashion.isayenko.net',
+  base: '/',
   build: {
     format: 'file',
   },

@@ -44,7 +44,7 @@ Static media splits across two folders:
 
 ## Hosting & deployment
 
-- **GitHub** — repository hosting (`github.com/alexisayenko/fashionista`).
+- **GitHub** — repository hosting (`github.com/alexisayenko/project-fashionista`).
 - **GitHub Pages** — static hosting. Deploys from the `gh-pages` branch, which is updated by a GitHub Action that runs `astro build` on every push to `main` and pushes `dist/` to `gh-pages`.
 - **GitHub Actions** — CI/CD. Workflow at `.github/workflows/deploy.yml`.
 
